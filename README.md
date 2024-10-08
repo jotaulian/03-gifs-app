@@ -1,6 +1,9 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.9.
+This project was generated with  version 17.3.9.
+
+## Visit the demo [here]([https://github.com/angular/angular-cli](https://670507e9b3b8ea0d470fac9c--chic-mousse-6d512c.netlify.app/)):
+
 
 ## Development server
 
